@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "platform": "gitee",
+  "repos": [
+    {
+      "name": "mochaxw001",
+      "files": [
+        "mochaxw_202604.json",
+        "mochaxw_202605.json"
+      ]
+    }
+  ]
+}
